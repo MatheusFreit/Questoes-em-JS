@@ -1,2 +1,3 @@
 # Questoes-em-JS
- Treinamento de logica em Javascript 
+
+ Treinamento de lógica em Javascript 
