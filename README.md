@@ -1,10 +1,31 @@
-# Questoes-em-JavaScript - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+# 🧠 Questoes-em-JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 
-Olá! Bem-vindo ao meu projeto de questões de JavaScript.<br>
-<br>
-O projeto consiste em uma coleção de perguntas e desafios de JavaScript, organizados por nível de dificuldade.<br>
-Alguns desafios podem ser mais difíceis do que outros, mas todos são projetados para serem educativos e desafiadores.<br>
-<br>
-Se você encontrar alguma questão que possa ser melhorada, ou se tiver alguma sugestão de questão para adicionar ao projeto, sinta-se à vontade para contribuir através da seção de "Issues" ou de um "Pull Request". 
-<br>
-Obrigado por conferir o projeto de questões de JavaScript. Espero que você tenha achado útil e informativo, e que ajude a aprimorar suas habilidades em JavaScript.
+Bem-vindo ao meu repositório de **questões e desafios em JavaScript**!  
+Aqui você encontrará exercícios organizados por nível de dificuldade, pensados para treinar lógica, sintaxe e os principais recursos da linguagem.
+
+> 🎯 Ideal para iniciantes e intermediários que desejam praticar com desafios práticos.
+
+---
+
+## 📋 Sobre o Projeto
+
+Este projeto contém:
+
+- ✅ Questões comentadas com explicações
+- ✅ Níveis de dificuldade variados
+- ✅ Práticas com `array`, `string`, `objetos`, `funções`, `laços`, `condicionais` e muito mais
+- ✅ Estilo progressivo: comece simples e evolua aos poucos
+
+---
+
+## 🚀 Como utilizar
+
+```bash
+# 1. Clone este repositório
+git clone https://github.com/MatheusFreit/Questoes-em-JavaScript.git
+
+# 2. Acesse a pasta do projeto
+cd Questoes-em-JavaScript
+
+# 3. Abra os arquivos diretamente com seu editor favorito (ex: VSCode)
